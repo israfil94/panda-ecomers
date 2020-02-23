@@ -1,0 +1,82 @@
+/* ===== common css start ===== */
+.container{
+    margin-bottom: 100px;
+}
+.bye-now{
+    background-image: linear-gradient(to bottom, #ff5898 0%, #ff136f 100%);
+    color: #ffffff;
+    border: none;
+    border-radius: 10px;
+    padding: 8px 25px;
+    cursor: pointer;
+}
+/* ===== common css end ===== */
+
+
+/* ===== banner area start ===== */
+.carousel-item{
+    background-color: #fceae8;
+    padding: 20px 40px;
+    border-radius: 10px;
+}
+.carousel-item .b-price{
+    color: #ff136f;
+}
+/* ===== banner area end =====*/
+
+
+/* ===== categories area start ===== */
+.categories .item1{
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.categories .item2{
+    background-color: purple;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.categories .item3{
+    background-color: blue;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.categories h2{
+    color: #ffffff;
+}
+.categories img{
+    width: 100px;
+}
+/* ===== categories area end =====*/
+
+
+/* ===== Shoes area start ===== */
+.card{
+    border: none;
+    box-shadow: 7px 7px 12px lightgray;
+}
+.card-footer{
+    border-top: none;
+    background: #ffffff;
+}
+/* ===== Shoes area end =====*/
+
+
+/* =====  area start ===== */
+#Contact{
+    height: 300px;
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+#Contact h6{
+    color: gray;
+}
+/* =====  area end =====*/
+
+
+/* ===== footer area start ===== */
+footer{
+    text-align: center;
+    margin-bottom: 10px;
+}
+/* ===== footer area end =====*/
